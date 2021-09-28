@@ -6,7 +6,7 @@
 [youtube](https://www.youtube.com/watch?v=C08xUTg3xN4&ab_channel=%E7%BE%85%E5%A3%AB%E6%AC%BD)
 
 ## 相關新聞
-[youtube](https://tw.appledaily.com/life/20200908/CXIIDMZ6VJCC7FU5UX35VPH25Y/)
+[新聞](https://tw.appledaily.com/life/20200908/CXIIDMZ6VJCC7FU5UX35VPH25Y/)
 
 ## 實際運作圖
 ![image](https://github.com/shuan86/wood_factory/blob/master/image/product1.png)
